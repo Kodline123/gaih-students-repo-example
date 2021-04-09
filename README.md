@@ -4,7 +4,7 @@
 **Course Date:** DD.MM.YYYY  
 **Name:** Bertuğ
 **Surname:** Kalkan
-**Email:** mertcobanov@gmail.com  
+**Email:** bertugkalkan@outlook.com
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
